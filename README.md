@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhay2662006@gmail.com**
 
-- 📄 Know about my experiences [first year at ARMY INSTITUTE OF TECHNOLOGY](first year at ARMY INSTITUTE OF TECHNOLOGY)
+- 📄 Know about my experiences [ARMY INSTITUTE OF TECHNOLOGY (B.E Electronics Tel-Communication 2028 )](first year at ARMY INSTITUTE OF TECHNOLOGY)
 
 - Fun Fact **I am buddy**
 
