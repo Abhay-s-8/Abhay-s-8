@@ -8,10 +8,10 @@
 
 - 🌱 I’m currently learning **c++ language**
 
-- 📫 How to reach me **abhay2662006@gmail.com**
+- 📫 How to reach me **abhay2662006@gmail.com** and my linkedIn **https://www.linkedin.com/in/abhay-singh-398a5731a/**
 
 - 📄 Know about my experiences [ARMY INSTITUTE OF TECHNOLOGY (B.E Electronics Tel-Communication 2028 )]
-- Fun Fact **I am buddy**
+- Call ME **buddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
