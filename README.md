@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-s-8&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-s-8" /> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=abhay-s-8" alt="abhay-s-8" /></a> </p>
 
 - 🌱 I’m currently learning **c++ language**
@@ -15,6 +15,7 @@
 - Fun Fact **I am buddy**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
 <a href="https://linkedin.com/in/abhay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay singh" height="30" width="40" /></a>
 <a href="https://instagram.com/abhay_s_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_s_8" height="30" width="40" /></a>
