@@ -40,20 +40,6 @@
 </p>
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay-s-8&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhay-s-8&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
