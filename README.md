@@ -12,7 +12,9 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+## 🌐 Connect with Me
+
+<p align="center">
 <a href="https://www.linkedin.com/in/abhay8s/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -21,6 +23,9 @@
 </a>
 <a href="mailto:abhay2662006@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://portfolio-abhay99.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
 
