@@ -34,9 +34,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhay-s-8&theme=tokyonight" />
+<p align="left">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-s-8&theme=tokyonight" height="180"/>
+</p>
+<p align="right">
+  <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" width="400" />
 </p>
 
 ---
