@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/abhay8s/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://instagram.com/abhay_s_8" target="_blank">
