@@ -9,9 +9,8 @@
 - 💻 Exploring **Web Development (MERN Stack)**
 - ⚡ Fun fact: *I turn coffee ☕ into code 💻*
 
----
 
-## 🌐 Connect with Me
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -29,21 +28,21 @@
 </a>
 </p>
 
----
+
 
 ## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,html,css,git,github" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-s-8&theme=tokyonight" height="180"/>
   <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" height="180"/>
 </p>
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -68,16 +67,11 @@
 </a>
 </p>
 
----
-
 ## 🔥 Profile Views
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=abhay-s-8&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
----
-
-## ✨ Quote
 <p align="center">
 "Code. Learn. Build. Repeat."
 </p>
