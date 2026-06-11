@@ -1,77 +1,154 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">🚀 Passionate Software Developer | C++ | MERN | Problem Solver</h3>
+
+<h3 align="center">
+🚀 Software Developer | AI Enthusiast | Competitive Programmer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+LLM+Builder;MERN+Stack+Developer;Competitive+Programmer" />
+</p>
 
 ---
 
-## 🌟 About Me
-- 🎓 Student at **Army Institute of Technology**
-- 🌱 Currently learning **C++ & Data Structures**
-- 💻 Exploring **Web Development (MERN Stack)**
-- ⚡ Fun fact: *I turn coffee ☕ into code 💻*
+## 👨‍💻 About Me
 
+- 🎓 B.E. Electronics & Telecommunication @ Army Institute of Technology, Pune
+- 📈 CGPA: **9.164 / 10**
+- 🤖 Passionate about **AI, LLMs, and Full-Stack Development**
+- 🌱 Building AI-powered applications using **OpenRouter, Gemini, LangChain, Hugging Face & RAG**
+- 💻 Solved **200+ DSA Problems**
+- 🏆 Google Student Ambassador – Gemini Program 2026
+- 🎭 Secretary, Cultural Board @ AIT Pune
 
+---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhay8s/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://instagram.com/abhay_s_8" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
+
 <a href="mailto:abhay2662006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://portfolio-abhay99.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhay8s" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
-
+---
 
 ## 🛠️ Tech Stack
+
+### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
 
+### Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### AI & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**AI Technologies:** OpenRouter API • Gemini • LangChain • Hugging Face • RAG • AI Agents
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ Sarkar Seva
+**Government Form Language Barrier Tool**
+
+- 🌐 Translates government forms into 10+ Indian languages
+- 📸 OCR-based text extraction from uploaded images
+- ⚡ Dynamic field detection and form generation
+- 📄 PDF export support
+
+🔗 **Live:** https://sarkar-seva-ai.vercel.app/
+
+---
+
+### 📰 NewsMaster AI
+**UPSC News Intelligence Platform**
+
+- 🗞️ Aggregates 20–30 articles using RSS feeds
+- 🤖 AI-powered summarization using Gemini
+- 🔍 Keyword extraction and category-wise filtering
+- ⚡ Automated parsing and deduplication pipeline
+
+---
+
+### 🎭 Cultural Board Website
+
+- 📢 Event, Gallery & Announcement Platform
+- 🔐 Firebase Authentication with Google OAuth
+- ☁️ Cloudinary-based media management
+- 👥 Serving 500+ students
+
+---
+
+## 🏆 Achievements
+
+- 💻 Solved **200+ Problems** on LeetCode
+- ⭐ **5-Star HackerRank Badge**
+- 📈 **Codeforces Rating: 1000+**
+- 🥈 **2nd Runner-Up — Commit 1.0 Hackathon**
+- 🎓 **AICTE YASHASVI Scholarship Recipient**
+- 🏅 **Indian Express Scholarship Recipient**
+- 🏅 **Bombay Sappers Merit-cum-Means Scholarship Recipient**
+
+---
+
+## 📜 Certifications
+
+- 🤖 Fundamentals of Agents — Hugging Face (2026)
+- 🔐 Deloitte Australia Cyber Job Simulation — Forage
+
+---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-s-8&theme=tokyonight" height="180"/>
-  <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" height="180"/>
-</p>
-
-
-## 🛠️ Languages & Tools
 
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=abhay8s&show_icons=true&theme=tokyonight" height="170"/>
 
-## 🔥 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhay-s-8&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay8s&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-"Code. Learn. Build. Repeat."
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay8s&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- AI Agents & RAG Applications
+- Advanced DSA & Competitive Programming
+- MERN Stack Development
+- Building Real-World AI Products
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhay8s&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+Code • Learn • Build • Repeat 🚀
+</h3>
