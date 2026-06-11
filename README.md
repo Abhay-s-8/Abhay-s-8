@@ -150,9 +150,6 @@
 <img src="https://komarev.com/ghpvc/?username=Abhay-8-s&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
-<p align="center">
-⭐ 600+ Profile Views • 🚀 AI Builder • 💻 Competitive Programmer
-</p>
 
 <h3 align="center">
 Code • Learn • Build • Repeat 🚀
