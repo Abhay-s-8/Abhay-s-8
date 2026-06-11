@@ -125,13 +125,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhay8s&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay-s-8&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay8s&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay-s-8&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay8s&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-s-8&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -147,7 +147,7 @@
 ## 📈 GitHub Reach
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhay-8-s&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhay-s-8&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 
