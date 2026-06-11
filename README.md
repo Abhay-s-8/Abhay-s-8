@@ -147,7 +147,7 @@
 ## 📈 GitHub Reach
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhay8s&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhay-8-s&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <p align="center">
