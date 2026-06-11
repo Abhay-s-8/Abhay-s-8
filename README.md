@@ -144,9 +144,14 @@
 - Building Real-World AI Products
 
 ---
+## 📈 GitHub Reach
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhay8s&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abhay8s&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ 600+ Profile Views • 🚀 AI Builder • 💻 Competitive Programmer
 </p>
 
 <h3 align="center">
